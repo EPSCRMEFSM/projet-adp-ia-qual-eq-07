@@ -1,0 +1,42 @@
+
+======================================================
+MEMO : DISCUSSION TECHNIQUE - PROJET EN-VLB
+======================================================
+DATE : 29 Avril 2026
+OBJET : Analyse du diagnostic physique via les fautes techniques en Volleyball
+CADRE : 2ème Année Baccalauréat - CRMEF Inezgane
+INTERVENANT : Expert en EPS / Entraînement Volleyball
+======================================================
+
+1. SYNTHÈSE DU DIAGNOSTIC INITIAL (DI)
+--------------------------------------
+L'orientation du cycle repose sur un postulat fort : la faute technique n'est pas seulement un défaut de motricité, mais le symptôme d'un déficit de qualité physique (Renforcement Musculaire).
+
+Observations clés retenues :
+- Les fautes au filet (redescente) signalent un manque de force excentrique et de gainage.
+- Les services courts signalent une fatigue des fixateurs de l'omoplate.
+- Les manchettes "explosées" indiquent un manque de tonicité du haut du corps.
+
+2. PROTOCOLES D'ÉVALUATION VALIDÉS
+----------------------------------
+Deux axes de mesures ont été stabilisés pour le benchmark :
+- Tests de terrain : Sargent Test (Explosivité), Killy (Endurance de force), Navette (Vitesse de réaction).
+- Grille d'observation : Identification des "Fautes de Rupture Physique" en situation de match.
+
+3. AXES DE RECHERCHE ET DÉVELOPPEMENT
+-------------------------------------
+Pour le projet de fin d'études/stage, trois pistes sont prioritaires :
+- Impact de la fatigue sur la précision technique (La "Faute de Fatigue").
+- Corrélation entre force explosive et efficacité offensive (Smash/Contre).
+- Rôle du gainage dynamique dans la conservation du ballon (CONS).
+
+4. MODALITÉS PÉDAGOGIQUES (Effectif 31 élèves)
+----------------------------------------------
+- Utilisation de l'observation par les pairs (16 joueurs / 15 observateurs).
+- Intégration de la Préparation Physique Spécifique (PPS) de 5-10 min en début de séance.
+- Focus sur le Circuit-Training fonctionnel sans matériel lourd.
+
+======================================================
+STATUT : Grille v1 finalisée pour soumission au formateur.
+PROCHAINE ÉTAPE : Validation du format .TXT avant intégration Excel.
+======================================================
